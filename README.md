@@ -43,3 +43,5 @@ Another example, given the input 15, your program should output:
 > 14
 
 > FizzBuzz
+
+https://www.hackerrank.com/contests/programming-interview-questions/challenges/fizzbuzz-classic
